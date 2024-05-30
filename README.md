@@ -1,2 +1,8 @@
-# CoinEventCalendarProject
-취미삼아 달력에 비트코인반감기 관련 및 이벤트를 달력에 선택적으로 출력해보고 싶어서 시도해보려고 합니다
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
