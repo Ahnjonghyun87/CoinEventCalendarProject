@@ -1,8 +1,11 @@
-# React + Vite
+#todo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1.  코인마켓캡에서 얻어온 Api로 시총 50위 또는 100위권 안팎의 코인들이 가진 이벤트를 달력에 표시
 
-Currently, two official plugins are available:
+2.  당일의 코인 관련 뉴스를 하단에 표기
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3.  저장해둔 Todo검색
+
+4.  코인 티커(4자리 단축명) 검색시 관련 이벤트 출력(searchbar이용)
+
+5.  비트코인 반감기를 기반으로 달력에 총 4개 컬러- 파란색-녹색-노란색-빨간색으로 매수 매도 추천시기를 직관적으로 알려줌. 짙을수록 빙하기, 매수 추천시점- 색이 빨갛게 변할수록 매도추천시기
